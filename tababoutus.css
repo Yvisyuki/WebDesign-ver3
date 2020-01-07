@@ -1,0 +1,257 @@
+@media only screen and (min-width: 321px) and (max-width: 768px){
+    .background{
+        display: none;
+    }
+
+    .tabbackground{
+        display: block;
+        }
+
+    .phonebackground{
+        display: none;
+    }
+
+    body{
+        margin: 0;
+        margin-right: auto;
+        margin-left: auto;
+        width: 768px;
+        height:2546px;
+    }
+    
+    .tabbackground{
+        width: 768px;
+        height:2546px;
+        background-color: #F2E9DC;
+    }
+        
+    p{
+        margin:0;
+        padding:0;
+    }
+    
+    .logo{
+        padding-top:34px;
+        padding-left: 170px;
+    }
+    
+    .menu{
+        display:flex;
+        padding-top: 34px;
+        margin-left: 82px;
+        margin-right: 82px;
+        justify-content: space-between;
+    }
+    
+    .menuname{
+        padding: 0;
+        margin: 0;
+        font-size: 20px;
+        color: #000000;
+        font-family: 'Segoe UI';
+        text-decoration: none;
+    }
+
+    .menuname::after{
+        content: '';
+        display: block;
+        width: 0;
+        height: 4px;
+        background-color: #808F85;
+        transition: width .3s;
+       }
+       
+       
+       .menuname:hover::after{
+           color: #808F85;
+           width: 100%;
+           transition: width .3s;
+       }
+
+
+       a:hover {
+        color: #91c499;
+    }
+    
+    .AboutUs{
+        padding:0;
+        margin-top: 64px;
+        font-family: 'Segoe UI';
+        font-size:60px;
+        color: #595959;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .AUContent{
+        height: 200px;
+        width: 581px;
+        margin-top: 44px;
+        margin-left: 82px;
+        font-family: 'Segoe UI';
+        font-size:20px;
+        line-height:30px;
+        color: #808F85;
+        text-align:center;
+    }
+    
+    .line{
+        height: 0px;
+        width:106px;
+        margin-top: 14.5px;
+        margin-left: 331px; 
+        border: 2.5px solid #808F85;
+    }
+    
+    .ABNws{
+        margin-top: 111.5px;
+        display: flex;
+    }
+    
+    .circle{
+        margin-left: 113px;
+    }
+    
+    .rightcircle{
+        margin-left: 107px;
+    }
+    
+    .ABContent{
+        display: flex;
+    
+    }
+    
+    .ABYuki{
+        margin-top: 113px;
+        display: flex;
+    }
+    
+    .ABYyis{
+        margin-top: 113px;
+        display: flex;
+    }
+    
+    .rightIntroduction{
+        display: flex;
+        flex-direction: column;
+    }
+        
+    .leftIntroduction{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nwsIntroduction{
+        height: 79px;
+        width: 92px;
+        padding-left: 145px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .YKIntroduction{
+        height: 81px;
+        width: 88px;
+        padding-left: 230px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .yvIntroduction{
+        height: 78px;
+        width: 82px;
+        padding-left: 156px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ABName{
+        font-family: 'Segoe UI';
+        font-size:42px;
+        color: #595959;
+    }
+    
+    .nwscontentline{
+        height: 0px;
+        width:72px;
+        border: 2.5px solid #91C499;
+        margin-left: 11px;
+        margin-right: 11px;
+    }
+    
+    .yukicontentline{
+        height: 0px;
+        width:72px;
+        border: 2.5px solid #91C499;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    
+    .yviscontentline{
+        height: 0px;
+        width:72px;
+        border: 2.5px solid #91C499;
+        margin-left: 6px;
+        margin-right: 6px;
+    }
+    
+    .Country{
+        margin-top: 3px;
+        display: flex;
+        justify-content: center;
+        font-family: 'Segoe UI';
+        font-size: 13px;
+        color: #595959;
+        opacity: 59%;
+    }
+    
+    .rightIntroductionContent{
+        padding-top: 10px;
+        padding-left: 23px;
+        height: 86px;
+        width:338px;
+        font-family: 'Segoe UI';
+        font-size: 15px;
+        color: #808F85;
+        line-height:20px;
+        text-align:center;
+    }
+    
+    .leftIntroductionContent{
+        padding-top: 10px;
+        padding-left: 107px;
+        height: 63px;
+        width:338px;
+        font-family: 'Segoe UI';
+        font-size: 15px;
+        color: #808F85;
+        line-height:20px;
+        text-align:center;
+    }
+    
+    .Skill{
+        margin-top: 45px;
+        margin-left: 58px;
+    }
+    
+    .top{
+        margin-top: 100.5px;
+        margin-left: 700px;
+    }
+    
+    .bottom{
+        margin-top: 20px;
+        height: 98px;
+        width: 768px;
+        background-color: #595959;
+    }
+    
+    .bottomcontent{
+        padding-top: 35px;
+        font-family: 'Segoe UI';
+        color: #FFFFFF;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+    }
+}

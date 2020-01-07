@@ -1,0 +1,13 @@
+body, html {
+    height: 60%;
+    margin: 0;
+}
+
+body { 
+    display: grid;
+    justify-items: center;
+}
+
+#ani {
+     width: 10%;
+}

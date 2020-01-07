@@ -1,0 +1,88 @@
+@media only screen and (max-width: 320px){
+    .background{
+        display: none;
+    }
+
+    .tabbackground{
+        display: none;
+        }
+
+    .phonebackground{
+        display: block;
+    }
+
+    body{
+        margin: 0;
+        padding:0;
+        margin-right: auto;
+        margin-left: auto;
+        width: 320px;
+        height:2374px;
+    }
+    
+    .phonebackground{
+        width: 320px;
+        height:2374px;
+        background-color: #F2E9DC;
+    }
+    
+    p{
+        margin:0;
+        padding:0;
+    }
+    
+    .name{
+        margin-top: 28px;
+        font-family: 'Segoe UI';
+        font-size:29px;
+        color: #707070;    
+        display: flex;
+        justify-content: center;
+    }
+    
+    .line{
+        height: 0px;
+        width:50px;
+        margin-top: 0.5px;
+        margin-left: 136px;
+        border: 1px solid #91C499;
+    }
+    
+    .pcbackground{
+        margin-top: 70px;
+        margin-left: 32.2px;
+        width: 255.56px;
+        height: 2113.47px;
+        background-color:#F8F4ED ;
+    }
+    
+    .pictures{
+        padding-top: 25px;
+        margin-left: 29px;
+        height: 2059px;
+        width: 197px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .top{
+        margin-top: 29.5px;
+        margin-left: 283px;
+    }
+    
+    .bottom{
+        margin-top: 13px;
+        height: 43px;
+        width: 320px;
+        background-color: #595959;
+    }
+    
+    .bottomcontent{
+        padding-top: 11px;
+        padding-left: 10px;
+        font-family: 'Segoe UI';
+        color: #FFFFFF;
+        font-size: 10px;
+    }
+    }

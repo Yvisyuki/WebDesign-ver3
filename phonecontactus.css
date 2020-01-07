@@ -1,0 +1,123 @@
+@media only screen and (max-width: 320px){
+    .background{
+        display: none;
+    }
+
+    .tabbackground{
+        display: none;
+        }
+
+    .phonebackground{
+        display: block;
+    }
+
+    body{
+        margin: 0;
+        padding:0;
+        margin-right: auto;
+        margin-left: auto;
+        width: 320px;
+        height:1330px;
+    }
+    
+    .phonebackground{
+        width: 320px;
+        height:1330px;
+        background-color: #F2E9DC;
+    }
+    
+    p{
+        margin:0;
+        padding:0;
+    }
+
+.yvis{
+    padding-top: 407px;
+    margin-left: 49px;
+}
+
+.yuki{    
+    padding-top: 407px;
+    margin-left: 49px;
+}
+
+.nws{
+    margin-left: 49px;
+}
+
+.head{    
+    width: 135px;
+    height: 134px;
+    margin-left: 45px;
+    position: absolute;
+    padding-top: 62px;
+    z-index: 2;
+}
+
+.box{
+    position: absolute;
+    background-color:#FFFFFF;
+    width: 225px;
+    height: 231px;
+    border-radius: 26px;
+    opacity: 0.4;
+    margin-top: 122px;
+    z-index: 1;
+}
+
+.icon{
+    position: absolute;
+    padding-top: 204px;
+    padding-left: 38.4px;
+    width: 23px;
+    height: 124px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 3;
+}
+
+.feihua{
+    width: 127px;
+    height: 118px;
+    position: absolute;
+    padding-top: 207px;
+    padding-left: 65px;
+    font-family: 'Segoe UI';
+    font-size: 11px;
+    color:#808F85;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.feihua>p{
+    margin:0;
+    padding:0;
+}
+
+.igfbname{
+    color: #808F85;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #91c499;
+}
+
+.bottom{
+    margin-top: 480px;
+    height: 43px;
+    width: 320px;
+    background-color: #595959;
+}
+
+.bottomcontent{
+    padding-top: 11px;
+    padding-left: 10px;
+    font-family: 'Segoe UI';
+    color: #FFFFFF;
+    font-size: 10px;
+}
+}

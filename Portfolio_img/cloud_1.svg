@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1487" height="589.426" viewBox="0 0 1487 589.426">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1265" height="383" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="组_5" data-name="组 5" transform="translate(-217 -1088)">
+    <path id="联合_1" data-name="联合 1" d="M-1053.781,539.956-1097.739,494H-1757a34,34,0,0,1-34-34V-13a34,34,0,0,1,34-34H-338a34,34,0,0,1,34,34V460a34,34,0,0,1-34,34H-998.261l-43.957,45.956a7.971,7.971,0,0,1-5.781,2.47A7.973,7.973,0,0,1-1053.781,539.956Z" transform="translate(2008 1135)" fill="#fff"/>
+    <g id="left-arrow" transform="translate(939.52 1745.237) rotate(-90)">
+      <g id="组_2" data-name="组 2" transform="translate(101.48 0)">
+        <path id="路径_1" data-name="路径 1" d="M109.638,20.671,125.1,5.211a2.265,2.265,0,0,0,0-3.2L123.743.661a2.264,2.264,0,0,0-3.2,0L102.139,19.067a2.281,2.281,0,0,0,0,3.208l18.39,18.389a2.265,2.265,0,0,0,3.2,0l1.354-1.354a2.263,2.263,0,0,0,0-3.2Z" transform="translate(-101.48 0)" fill="#b0dab7"/>
+      </g>
+    </g>
+    <g id="重复网格_4" data-name="重复网格 4" transform="translate(328 1170)" clip-path="url(#clip-path)">
+      <g transform="translate(-311 -1160)">
+        <rect id="矩形_10" data-name="矩形 10" width="338" height="383" transform="translate(311 1160)" fill="#f1f1f1"/>
+      </g>
+      <g transform="translate(147 -1160)">
+        <rect id="矩形_10-2" data-name="矩形 10" width="338" height="383" transform="translate(311 1160)" fill="#f1f1f1"/>
+      </g>
+      <g transform="translate(605 -1160)">
+        <rect id="矩形_10-3" data-name="矩形 10" width="338" height="383" transform="translate(311 1160)" fill="#f1f1f1"/>
+      </g>
+    </g>
+  </g>
+</svg>

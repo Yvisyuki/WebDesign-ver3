@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.016" height="31.52" viewBox="0 0 26.016 31.52">
+  <g id="组_292" data-name="组 292" transform="translate(-283.168 -1060.48)">
+    <g id="left-arrow" transform="translate(309.184 1060.48) rotate(90)">
+      <g id="组_2" data-name="组 2" transform="translate(0 0)">
+        <path id="路径_1" data-name="路径 1" d="M5.136,13.014l9.733-9.733a1.426,1.426,0,0,0,0-2.012L14.016.416A1.425,1.425,0,0,0,12,.416L.415,12a1.436,1.436,0,0,0,0,2.02L11.992,25.6a1.426,1.426,0,0,0,2.013,0l.853-.852a1.425,1.425,0,0,0,0-2.013Z" fill="#707070"/>
+      </g>
+    </g>
+    <text id="TOP" transform="translate(296 1089)" fill="#595959" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="-9.853" y="0">TOP</tspan></text>
+  </g>
+</svg>

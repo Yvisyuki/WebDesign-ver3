@@ -1,0 +1,136 @@
+@media only screen and (max-width: 320px){
+    .background{
+        display: none;
+    }
+
+    .tabbackground{
+        display: none;
+        }
+
+    .phonebackground{
+        display: block;
+    }
+
+    body{
+        margin: 0;
+        padding:0;
+        margin-right: auto;
+        margin-left: auto;
+        width: 320px;
+        height:1148px;
+    }
+    
+    .phonebackground{
+        width: 320px;
+        height:1148px;
+        background-color: #F2E9DC;
+    }
+    
+    p{
+        margin:0;
+        padding:0;
+    }
+
+    
+    .logo{
+        padding-top:34px;
+        padding-left: 170px;
+    }
+    
+    .menu{
+        display:flex;
+        padding-top: 34px;
+        margin-left: 82px;
+        margin-right: 82px;
+        justify-content: space-between;
+    }
+    
+    .menuname{
+        padding: 0;
+        margin: 0;
+        font-size: 20px;
+        color: #000000;
+        font-family: 'Segoe UI';
+        text-decoration: none;
+    }
+
+.title{
+    padding:0;
+    margin-top: 40px;
+    font-family: 'Segoe UI';
+    font-size:40px;
+    color: #707070;
+    display: flex;
+    justify-content: center;
+}
+
+.nwscircle{
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+}
+
+.circle{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.name{
+    font-family: 'Segoe UI';
+    font-size:19px;
+    color: #707070;
+    display: flex;
+    justify-content: center;
+}
+
+.cloud{
+    margin-top: 6.2px;
+    margin-left: 10px;
+    position: absolute;
+    z-index: 1;
+}
+
+.pictures{
+    margin-top: 19px;
+    margin-left: 30px;
+    height: 84px;
+    width: 260px;
+    position: absolute;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.seemore{ 
+    margin-top: 129px;
+    font-family: 'Segoe UI';
+    font-size:7px;
+    color: #707070;
+    opacity: 50%;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+    
+.top{
+    margin-top: 29.5px;
+    margin-left: 283px;
+}
+
+.bottom{
+    margin-top: 13px;
+    height: 43px;
+    width: 320px;
+    background-color: #595959;
+}
+
+.bottomcontent{
+    padding-top: 11px;
+    padding-left: 10px;
+    font-family: 'Segoe UI';
+    color: #FFFFFF;
+    font-size: 10px;
+}
+}

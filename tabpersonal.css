@@ -1,0 +1,139 @@
+@media only screen and (min-width: 321px) and (max-width: 768px){
+    .background{
+        display: none;
+    }
+
+    .tabbackground{
+        display: block;
+        }
+
+    .phonebackground{
+        display: none;
+    }
+
+    body{
+        margin: 0;
+        margin-right: auto;
+        margin-left: auto;
+        width: 768px;
+        height:1144px;
+    }
+    
+    .tabbackground{
+        width: 768px;
+        height:1144px;
+        background-color: #F2E9DC;
+    }
+        
+    p{
+        margin:0;
+        padding:0;
+    }
+    
+    .logo{
+        padding-top:34px;
+        padding-left: 170px;
+    }
+    
+    .menu{
+        display:flex;
+        padding-top: 34px;
+        margin-left: 82px;
+        margin-right: 82px;
+        justify-content: space-between;
+    }
+    
+    .menuname{
+        padding: 0;
+        margin: 0;
+        font-size: 20px;
+        color: #000000;
+        font-family: 'Segoe UI';
+        text-decoration: none;
+    }
+    
+    .menuname::after{
+        content: '';
+        display: block;
+        width: 0;
+        height: 4px;
+        background-color: #808F85;
+        transition: width .3s;
+       }
+       
+       
+       .menuname:hover::after{
+           color: #808F85;
+           width: 100%;
+           transition: width .3s;
+       }
+
+    
+       a:hover {
+        color: #91c499;
+    }
+    
+    .name{
+        margin-top: 50px;
+        font-family: 'Segoe UI';
+        font-size:49px;
+        color: #707070;    
+        display: flex;
+        justify-content: center;
+    }
+    
+    .line{
+        height: 0px;
+        width:82px;
+        margin-top: 0.5px;
+        margin-left: 343px;
+        border: 2.5px solid #91C499;
+    }
+    
+    .pcbackground{
+        margin-top: 48.6px;
+        margin-left: 70px;
+        width: 629px;
+        height: 654px;
+        background-color:#F8F4ED ;
+    }
+    
+    .pictures{
+        padding-top: 49px;
+        margin-left: 52px;
+        height: 158px;
+        width: 541px;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .back{
+        margin-top: 25px;
+        margin-left: 30px;
+        display: flex;
+    }
+    
+    .backword{
+        margin-left: 12.9px;
+        font-size: 26px;
+        color: #595959;
+        font-family: 'Segoe UI';
+        text-decoration: none;
+    }
+    
+    .bottom{
+        margin-top: 71px;
+        height: 98px;
+        width: 768px;
+        background-color: #595959;
+    }
+    
+    .bottomcontent{
+        padding-top: 35px;
+        font-family: 'Segoe UI';
+        color: #FFFFFF;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    }
